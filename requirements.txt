@@ -1,0 +1,6 @@
+gradio>=4.44.0
+spaces
+scikit-learn
+pandas
+numpy
+matplotlib
